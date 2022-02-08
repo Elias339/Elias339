@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md.Elias Shikdar
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on html,css,c,c++
+- 💞️ I’m looking to collaborate on html,css,Bootstrap,javascript,c,c++
 - 📫 How to reach me eliasmd339@gmail.com
 
 <!---
