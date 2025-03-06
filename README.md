@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Md.Elias Shikdar
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning PHP with Laravel.
-- 💞️ I’m looking to collaborate on html,css,Bootstrap,javascript,c,c++
-- 📫 How to reach me eliasmd339@gmail.com
+👋 Hi, I'm Elias!
+🚀 Jr. Full-Stack Web Developer | Laravel Enthusiast
 
-<!---
-Elias339/Elias339 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Skilled in HTML, CSS, Bootstrap, JavaScript, PHP (Laravel), and MySQL
+🔹 Passionate about building scalable web applications and e-commerce platforms
+🔹 Focused on clean code, database optimization, and responsive UI/UX
+
+💡 What I'm working on:
+✅ Developing a multi-vendor e-commerce platform using Laravel
+✅ Enhancing front-end design with Bootstrap & JavaScript
+✅ Optimizing database structures for performance
