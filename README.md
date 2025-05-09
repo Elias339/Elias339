@@ -3,7 +3,7 @@
 
 🔹 Skilled in HTML, CSS, Bootstrap, JavaScript, PHP (Laravel), and MySQL
 🔹 Passionate about building scalable web applications and e-commerce platforms
-🔹 Focused on clean code, database optimization, and responsive UI/UX
+🔹 Focused on clean code and database optimization 
 
 💡 What I'm working on:
 ✅ Developing a multi-vendor e-commerce platform using Laravel
